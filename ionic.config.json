@@ -1,6 +1,8 @@
 {
   "name": "bananaApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "ef7b0a5e"
 }
